@@ -1,7 +1,5 @@
 ### Welcome
-I am a freelance software consultant, specializing in comparative genomics research.  I work primarily on open source projects using C++ and Python, such as [Cactus](https://github.com/ComparativeGenomicsToolkit/cactus) and [vg](https://github.com/vgteam/vg).  I have a PhD in Computer Science from [McGill University](https://www.mcgill.ca/). 
-
-My consulting company, Arenaria, has been in business since 2015. If you are interested in working together feel free to contact me (my first name dot my last name @arenaria.ca).
+I am a freelance software consultant, specializing in comparative genomics research.  
 
 <!--
 **glennhickey/glennhickey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
