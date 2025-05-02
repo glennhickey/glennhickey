@@ -1,5 +1,5 @@
 ### Welcome
-I am a freelance software consultant, specializing in comparative genomics research.  
+I am a freelance research consultant specializing in pangenomics and comparative genomics.  
 
 <!--
 **glennhickey/glennhickey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
